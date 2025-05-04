@@ -10,7 +10,7 @@ I'm a biologist-turned-research software engineer at the [Sainsbury Wellcome Cen
 
 
 🌱 On the creative side, I'm also:
-- Developing a **Hydra-for-Jupyter** integration to live-code generative visuals from notebooks  
-- Writing small [creative coding](https://github.com/lauraporta/creative-coding) scripts with Hydra, p5.js and more
+- Developing a [Hydra-for-Jupyter](https://github.com/lauraporta/hydra-jupyter) integration to live-code generative visuals from notebooks  
+- Writing a small catalogue of [creative coding](https://github.com/lauraporta/creative-coding) scripts examples with Hydra, p5.js and more
 
 ⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄
