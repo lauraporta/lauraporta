@@ -1,16 +1,14 @@
-⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄
+⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄  
 ### Hi there, I'm Laura 👋
 
-I'm a biologist/neuroscientist turned into a Research Software Engineer working at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/). I'm part of the Margrie Lab and the Neuroinformatics Unit. My day-to-day work involves developing tools to analyze and visualize calcium imaging data.
+I'm a biologist-turned-research software engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), working in the Margrie Lab and the Neuroinformatics Unit. I design tools for analyzing and visualizing neural imaging data.
 
-- 🔬 I’m working on:
-  * [derotation](https://github.com/neuroinformatics-unit/derotation): a package designed to correct images acquired through 3-photon microscopes. This tool rotates line-by-line images to counteract speciment rotation, enabling further analysis.
-
-In my free time I've a few coding hobbies/projects:
-- 🌱 I’m currently learning creative coding with [hydra](https://hydra.ojack.xyz/docs/) (⚠️ flashing lights):
-  * [my first video synth open mic](https://hydra.ojack.xyz/?sketch_id=oEzZyqkEQYzVXMX0)
-  * [October 2024 live coding meetup sketch](https://hydra.ojack.xyz/?sketch_id=4ydauMG7zIpwe6jj)
-  * [Corsica Studio December 2024 sketch](https://hydra.ojack.xyz/?sketch_id=FwbXQAhpk25OyuNW)
-- 🏗️ I'm currently building a pen-plotter to be used with [BrachioGraph](https://www.brachiograph.art/)
+🧠 Currently maintaining and developing:
+- [**derotation**](https://github.com/neuroinformatics-unit/derotation): reconstructs clean movies from line-scanned 3-photon recordings of rotating brains  
+- [**photon-mosaic**](https://github.com/neuroinformatics-unit/photon-mosaic): an automated, Snakemake-based pipeline for calcium imaging data analysis  
+- [**translocator-models**](https://github.com/lauraporta/translocator-models): a Python toolkit for modeling population fold changes in response to sensory stimuli  
+🌱 On the creative side, I'm also:
+- Developing a **Hydra-for-Jupyter** integration to live-code generative visuals from notebooks  
+- Writing small [creative coding](https://github.com/lauraporta/creative-coding) scripts with Hydra, p5.js and more
 
 ⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄
