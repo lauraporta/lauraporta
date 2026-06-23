@@ -13,6 +13,3 @@
 
 I'm also a creative coder and live-coder: a [Hydra-for-Jupyter](https://github.com/lauraporta/hydra-jupyter) integration for generative visuals from notebooks, a [creative-coding](https://github.com/lauraporta/creative-coding) catalogue (Hydra, p5.js, Python…), and the occasional VJ set at Algoraves — sometimes driven by live neural (EEG) data.
 
----
-
-🛠️ Python · Snakemake · Slurm/GPU · PyTorch · MLflow · scikit-learn
