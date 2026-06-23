@@ -1,17 +1,18 @@
-⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄  
-### Hi there, I'm Laura 👋
+### Hi, I'm Laura 👋
 
-I'm a biologist-turned-research software engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/), working in the Margrie Lab and the Neuroinformatics Unit. I design tools for analyzing and visualizing neural imaging data.
+**Senior Research Software Engineer** at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/) (UCL), in the Neuroinformatics Unit and the Margrie Lab.
 
-Currently maintaining 👷🏻‍♀️ and developing 🏗️:
-- [**derotation**](https://github.com/neuroinformatics-unit/derotation) 👷🏻‍♀️: reconstructs clean movies from line-scanned 3-photon recordings of rotating brains  
-- [**photon-mosaic**](https://github.com/photon-mosaic) 🏗️: towards complete APIs and automated pipelines for multiphoton calcium imaging movies  
-- [**translocator-models**](https://github.com/neuroinformatics-unit/translocator-models) 👷🏻‍♀️: a Python toolkit for modeling population fold changes in response to sensory stimuli
+#### What I'm building
 
+- [**photon-mosaic**](https://github.com/photon-mosaic) — APIs and automated, reproducible pipelines for multiphoton calcium-imaging data (Snakemake + Slurm); an inter-institute open-source effort with the Allen Institute for Neural Dynamics and the International Brain Laboratory
+- [**derotation**](https://github.com/neuroinformatics-unit/derotation) — reconstructs clean movies from line-scanned recordings of rotating brains, unblocking analysis that wasn't otherwise possible
+- [**translocator-models**](https://github.com/neuroinformatics-unit/translocator-models) — a Python toolkit for modelling population fold-changes in response to sensory stimuli
+- [**neurodecoders**](https://github.com/lauraporta/neurodecoders) — a PyTorch toolkit for reconstructing visual stimuli from brain activity, with MLflow experiment tracking
 
-🌱 On the creative side, I'm also:
-- Developing a [Hydra-for-Jupyter](https://github.com/lauraporta/hydra-jupyter) integration to live-code generative visuals from notebooks  
-- Writing a small catalogue of [creative coding](https://github.com/lauraporta/creative-coding) scripts examples with Hydra, p5.js, python... and more!
-- Performing as VJ / livecoder at Algoraves and sometimes including neural data (live EEG recordings)
+#### Beyond the day job 🌱
 
-⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄⚄◉․﹒．~*~․﹒．◉⚄
+I'm also a creative coder and live-coder: a [Hydra-for-Jupyter](https://github.com/lauraporta/hydra-jupyter) integration for generative visuals from notebooks, a [creative-coding](https://github.com/lauraporta/creative-coding) catalogue (Hydra, p5.js, Python…), and the occasional VJ set at Algoraves — sometimes driven by live neural (EEG) data.
+
+---
+
+🛠️ Python · Snakemake · Slurm/GPU · PyTorch · MLflow · scikit-learn
