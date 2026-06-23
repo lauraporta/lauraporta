@@ -9,10 +9,6 @@
 - [**translocator-models**](https://github.com/neuroinformatics-unit/translocator-models) — a Python toolkit for modelling population fold-changes in response to sensory stimuli
 - [**neurodecoders**](https://github.com/lauraporta/neurodecoders) — a PyTorch toolkit for reconstructing visual stimuli from brain activity, with MLflow experiment tracking
 
-#### A bit more
-
-I trained first in biotechnology and molecular biology (CRISPR, genomics, cell biology) before moving into software, so I'm as at home with the science as with the code.
-
 #### Beyond the day job 🌱
 
 I'm also a creative coder and live-coder: a [Hydra-for-Jupyter](https://github.com/lauraporta/hydra-jupyter) integration for generative visuals from notebooks, a [creative-coding](https://github.com/lauraporta/creative-coding) catalogue (Hydra, p5.js, Python…), and the occasional VJ set at Algoraves — sometimes driven by live neural (EEG) data.
