@@ -1,6 +1,6 @@
 ### Hi, I'm Laura 👋
 
-**Senior Research Software Engineer** at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/) (UCL), in the Neuroinformatics Unit and the Margrie Lab. A biologist turned engineer, I build the pipelines, HPC workflows and tools that turn neural-imaging data into science — and I care about making them reproducible, tested and reusable.
+**Senior Research Software Engineer** at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/) (UCL), in the Neuroinformatics Unit and the Margrie Lab.
 
 #### What I'm building
 
@@ -11,7 +11,7 @@
 
 #### A bit more
 
-Co-author on *Cell* (2025) on how motor and vestibular signals shape the visual cortex. I trained first in biotechnology and molecular biology (CRISPR, genomics, cell biology) before moving into software, so I'm as at home with the science as with the code.
+I trained first in biotechnology and molecular biology (CRISPR, genomics, cell biology) before moving into software, so I'm as at home with the science as with the code.
 
 #### Beyond the day job 🌱
 
